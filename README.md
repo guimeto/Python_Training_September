@@ -3,7 +3,7 @@
 This repertory gathers all Jupyter Notebooks and datasets used during Python training. 
 
 ## Structure of the repertory:
-- Part 1: 
+### Part 1: 
 
  - <a href="https://github.com/guimeto/Python_Training_September/blob/master/Part1/1-Python_Basics.ipynb">Basics in Python</a>
  - <a href="https://github.com/guimeto/Python_Training_September/blob/master/Part1/2-Lists_in_Python.ipynb">Lists in Python</a>
@@ -16,7 +16,7 @@ This repertory gathers all Jupyter Notebooks and datasets used during Python tra
  - <a href="https://github.com/guimeto/Python_Training_September/blob/master/Part1/Project1-ECCC_Temperature.ipynb">Project 1: Working with temperature observation from ECCC</a>
  - <a href="https://github.com/guimeto/Python_Training_September/blob/master/Part1/Project2-ECCC_Precipitation.ipynb">Project 2: Working with precipitation observation from ECCC</a>
  
-- Part 2: 
+### Part 2: 
 
 - <a href="https://github.com/guimeto/Python_Training_September/blob/master/Part2/1-Netcdf_Tutorial.ipynb">Netcdf with Python: Part1</a>
 - <a href="https://github.com/guimeto/Python_Training_September/blob/master/Part2/2-Netcdf_Tutorial_2.ipynb">Netcdf with Python: Part2</a>
